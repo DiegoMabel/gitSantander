@@ -1,3 +1,3 @@
-# Curso Digital: Git Sntander
+# Curso Digital: Git Santander
 
-## Gravando mudanças no repositorio
+## Gravando mudanças no repositório
